@@ -1,7 +1,7 @@
-Caldera-Forms
-=============
-<a href="https://calderaforms.com/"><img src="https://calderaforms.com/wp-content/uploads/2015/02/catdeta-caldera-forms-banner.png" /></a>
+Caldera-Forms -- Customized By Sedana
+=======================================
 Drag & Drop WordPress Responsive Form Builder
+Customized by Sedana as End-of-Life has been decided by the original Author (https://calderaforms.com/2021/03/the-future-of-caldera-forms/). 
 
 
 ## 🌋👀 Docs, Add-ons & More Information:
